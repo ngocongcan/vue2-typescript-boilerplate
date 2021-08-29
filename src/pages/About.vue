@@ -7,7 +7,7 @@
 
 <script lang="ts">
 import { Vue, Component } from "@/utils/vue-imports";
-import Navbar from "@/components/Navbar.vue";
+import Navbar from "@/components/bootstrap/Navbar.vue";
 
 @Component({
   name: "About",
