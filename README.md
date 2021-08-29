@@ -1,12 +1,9 @@
-# Vue Boilerplates : vue-typescript-boilerplate
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-boilerplate.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-boilerplate?ref=badge_shield)
+# Vue Boilerplates : vue2-typescript-boilerplate
 
-
-> A vue.js project with Latest Vue + Typescript + Lazy loading and code splitting
+> A vue.js project with  Vue2 + Typescript + Lazy loading and code splitting
 
 ## Why to choose Vue Boilerplates?
 > While mobile-first approach becomes a standard and uncertain network conditions are something we should always take into consideration, it’s harder and harder to keep your application loading fast. Hence **Vue Boilerplates** are built with vue.js performance optimization techniques that make them loading instantly and perform smooth :rocket:.  
-**Please consider becoming a [donor](https://opencollective.com/vue-boilerplates)**. :pray:
 
 ## Features
 The following features are delivered out of the box in this repo, you are just one click away from starting your Progressive Web application (PWA) with advanced features of Vue,
@@ -18,6 +15,9 @@ The following features are delivered out of the box in this repo, you are just o
 - Typescript
 - PWA - service worker
 - SASS
+- Bootstrap
+- Bootstrap Vue
+- Gull Theme
 - babel
 - Webpack bundling
 - Prettier
@@ -36,7 +36,7 @@ Even Vue library was exported as a seperate web chunk :heart_eyes:
 
 ```bash
 # 1. Clone the repository.
-git clone https://github.com/Vue-Boilerplates/vue-typescript-boilerplate.git my-new-project
+git clone https://github.com/ngocongcan/vue2-typescript-boilerplate my-new-project
 
 # 2. Enter your newly-cloned folder.
 cd my-new-project
@@ -77,13 +77,8 @@ npm run build
 
 # Support
 
-[Give me a Star⭐️](https://github.com/Vue-Boilerplates/vue-typescript-boilerplate)
+[Give me a Star⭐️](https://github.com/ngocongcan/vue2-typescript-boilerplate)
 
-[Buy me a ☕️!](https://www.buymeacoffee.com/zxqp)
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sureshbabusakthi)
 
 # License
 Released under the MIT [License](./LICENSE)  
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-boilerplate.svg?type=small)](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-boilerplate.svg?type=small)
