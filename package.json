@@ -15,7 +15,14 @@
     "register-service-worker": "1.7.1",
     "vue": "2.6.11",
     "vue-router": "3.3.4",
-    "vuex": "3.5.1"
+    "vuex": "3.5.1",
+    "bootstrap": "4.5.0",
+    "bootstrap-vue": "2.15.0",
+    "vue-form-wizard": "^0.8.4",
+    "vue-good-table": "^2.19.5",
+    "vue-simple-calendar": "^4.4.0",
+    "vue-slider-component": "^3.2.2",
+    "nprogress": "^0.2.0"
   },
   "devDependencies": {
     "@types/jest": "25.2.3",
@@ -45,5 +52,10 @@
     "vue-class-component": "7.2.3",
     "vue-property-decorator": "8.5.0",
     "vue-template-compiler": "2.6.11"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
   }
 }
